@@ -2,7 +2,7 @@
 
 This is repo of my Portfolio Website.
 You can open the website by clicking on:
-[https://varun-kolanu-portfolio.netlify.app/](https://varun-kolanu-portfolio.netlify.app/)
+[https://github.com/Maheshroyce/persnoalportfolio.git](https://github.com/Maheshroyce/persnoalportfolio.git/)
 or by following this method:
 1. Fork and clone the repository.
 2. Install NodeJS on your system.
